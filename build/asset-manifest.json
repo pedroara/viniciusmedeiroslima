@@ -1,0 +1,41 @@
+{
+  "files": {
+    "main.css": "/static/css/main.a3f4b501.chunk.css",
+    "main.js": "/static/js/main.c887a81b.chunk.js",
+    "main.js.map": "/static/js/main.c887a81b.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.f8f55ed2.js",
+    "runtime-main.js.map": "/static/js/runtime-main.f8f55ed2.js.map",
+    "static/js/2.483b2a84.chunk.js": "/static/js/2.483b2a84.chunk.js",
+    "static/js/2.483b2a84.chunk.js.map": "/static/js/2.483b2a84.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.a3f4b501.chunk.css.map": "/static/css/main.a3f4b501.chunk.css.map",
+    "static/js/2.483b2a84.chunk.js.LICENSE.txt": "/static/js/2.483b2a84.chunk.js.LICENSE.txt",
+    "static/media/Proposta1.a4669232.jpeg": "/static/media/Proposta1.a4669232.jpeg",
+    "static/media/Proposta10.8fef1a64.jpeg": "/static/media/Proposta10.8fef1a64.jpeg",
+    "static/media/Proposta11.be138510.jpeg": "/static/media/Proposta11.be138510.jpeg",
+    "static/media/Proposta12.87a47823.jpeg": "/static/media/Proposta12.87a47823.jpeg",
+    "static/media/Proposta13.eacd35cd.jpeg": "/static/media/Proposta13.eacd35cd.jpeg",
+    "static/media/Proposta14.d32a8b76.jpeg": "/static/media/Proposta14.d32a8b76.jpeg",
+    "static/media/Proposta2.b04b4538.jpeg": "/static/media/Proposta2.b04b4538.jpeg",
+    "static/media/Proposta3.533625b2.jpeg": "/static/media/Proposta3.533625b2.jpeg",
+    "static/media/Proposta4.a8cf04d3.jpeg": "/static/media/Proposta4.a8cf04d3.jpeg",
+    "static/media/Proposta5.258ed531.jpeg": "/static/media/Proposta5.258ed531.jpeg",
+    "static/media/Proposta6.c4a4aa97.jpeg": "/static/media/Proposta6.c4a4aa97.jpeg",
+    "static/media/Proposta7.81d6a377.jpeg": "/static/media/Proposta7.81d6a377.jpeg",
+    "static/media/Proposta8.96a24405.jpeg": "/static/media/Proposta8.96a24405.jpeg",
+    "static/media/Proposta9.52ee03c7.jpeg": "/static/media/Proposta9.52ee03c7.jpeg",
+    "static/media/PropostaP1.7a92ae56.jpeg": "/static/media/PropostaP1.7a92ae56.jpeg",
+    "static/media/PropostaP2.84af21d9.jpeg": "/static/media/PropostaP2.84af21d9.jpeg",
+    "static/media/contato.744ac988.jpeg": "/static/media/contato.744ac988.jpeg",
+    "static/media/home.d9f774ca.jpeg": "/static/media/home.d9f774ca.jpeg",
+    "static/media/logo.8094533c.png": "/static/media/logo.8094533c.png",
+    "static/media/sobre.07b50e50.jpeg": "/static/media/sobre.07b50e50.jpeg",
+    "static/media/v.4f44ff41.jpeg": "/static/media/v.4f44ff41.jpeg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f8f55ed2.js",
+    "static/js/2.483b2a84.chunk.js",
+    "static/css/main.a3f4b501.chunk.css",
+    "static/js/main.c887a81b.chunk.js"
+  ]
+}
