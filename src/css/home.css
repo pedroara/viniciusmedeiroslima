@@ -1,0 +1,16 @@
+.celular {
+  display: none;
+}
+
+.computador {
+  display: inline;
+}
+
+@media (max-width: 900px) {
+  .celular {
+    display: inline;
+  }
+  .computador {
+    display: none;
+  }
+}
