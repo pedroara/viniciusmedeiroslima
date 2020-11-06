@@ -1,12 +1,11 @@
 const express = require("express");
-const path = require("path");
-const app = express();
+const server = express();
 const port = 21011;
-
 // the __dirname is the current directory from where the script is running
-app.use(express.static(__dirname));
-app.use(express.static(path.join(__dirname, "build")));
-app.get("/*", function (req, res) {
-  res.sendFile(path.join(__dirname, "build", "index.html"));
+server.use(express.static(__dirname));
+server.get("/", (req, res) => {
+  res.sendFile(__dirname + "/views/index.html");
 });
-app.listen(port);
+server.use(express.static(__dirname + "/views"));
+server.use(express.static(__dirname + "/public/"));
+server.listen(port);
