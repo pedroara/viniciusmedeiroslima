@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/pedroara/viniciusmedeiroslima/issues"
   },
-  "homepage": "https://github.com/pedroara/viniciusmedeiroslima#readme"
+  "homepage": "https://github.com/pedroara/viniciusmedeiroslima#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
